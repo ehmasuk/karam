@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Apr 2022 04:32:30 at https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4 -O1 "C:\My Web Sites\emmkaan" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/index.html (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/index48a6.html?page_id=5 (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/index5534.html?page_id=6 (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/index3204.html?page_id=7 (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/components.mywebsitebuilder.com/fonts/font-awesome.css (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/runtime.builderservices.io/runtime-endurance-default/bundle19fb.js?ver=1641582070 (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/stats.wp.com/e-202201.js (from https://emkkan-sa.com/?fbclid=IwAR0Tl7T9ReuUfPm5WwrJzgEmiY8W09PyS-b3Mg80z3tqxw8s-4JYZGubQM4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/css/mejs-controls.svg (from https://emkkan-sa.com/css/mediaelementplayer-legacy.min08e1.css?ver=4.2.16)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/modules/shortcodes/img/slideshow-controls.png (from https://emkkan-sa.com/css/jetpackb7ac.css?ver=10.4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/modules/shortcodes/img/slideshow-controls-2x.png (from https://emkkan-sa.com/css/jetpackb7ac.css?ver=10.4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/modules/shortcodes/images/slide-nav.png (from https://emkkan-sa.com/css/jetpackb7ac.css?ver=10.4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/modules/shortcodes/images/expand.png (from https://emkkan-sa.com/css/jetpackb7ac.css?ver=10.4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/modules/shortcodes/images/collapse.png (from https://emkkan-sa.com/css/jetpackb7ac.css?ver=10.4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/secure.gravatar.com/images/grav-share-sprite.png (from https://emkkan-sa.com/css/jetpackb7ac.css?ver=10.4)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/fonts/fontawesome-webfont3e6e.eot (from https://emkkan-sa.com/css/font-awesome.css)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/fonts/fontawesome-webfontd41d.eot (from https://emkkan-sa.com/css/font-awesome.css)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/fonts/fontawesome-webfont3e6e.woff2 (from https://emkkan-sa.com/css/font-awesome.css)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/fonts/fontawesome-webfont3e6e.woff (from https://emkkan-sa.com/css/font-awesome.css)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/fonts/fontawesome-webfont3e6e.ttf (from https://emkkan-sa.com/css/font-awesome.css)
+04:32:47	Error: 	"Not Found" (404) at link https://emkkan-sa.com/fonts/fontawesome-webfont3e6e.svg (from https://emkkan-sa.com/css/font-awesome.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 47 links scanned, 26 files written (1374548 bytes overall) [904126 bytes received at 53183 bytes/sec], 792980 bytes transferred using HTTP compression in 40 files, ratio 21%, 7.8 requests per connection
+(20 errors, 0 warnings, 0 messages)
